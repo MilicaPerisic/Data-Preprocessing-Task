@@ -9,7 +9,7 @@ import pandas as pd
 import json
 
 file_path = 'data/devices.csv'
-file_name_json = 'devices_pandas.json'
+file_name_json = 'data/results/devices_pandas.json'
 column_order = ['MODELNAME', 'IP', 'SYSDESC', 'COMMUNITY', 'CLASSNAME', 'HOSTNAME', 'SERIALNUMBER' ]
 
 def read_data_frame():

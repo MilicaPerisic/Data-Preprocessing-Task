@@ -8,7 +8,7 @@ import pandas as pd
 import json
 
 file_path = 'data/devices.csv'
-file_name_json = 'devices_dictionary.json'
+file_name_json = 'data/results/devices_dictionary.json'
 key_order = ['MODELNAME', 'IP', 'SYSDESC', 'COMMUNITY', 'CLASSNAME', 'HOSTNAME', 'SERIALNUMBER' ]
 
 
