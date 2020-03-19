@@ -7,7 +7,7 @@ Created on Thu Mar 19 10:34:11 2020
 import pandas as pd
 import json
 
-file_path = 'devices.csv'
+file_path = 'data/devices.csv'
 file_name_json = 'devices_dictionary.json'
 key_order = ['MODELNAME', 'IP', 'SYSDESC', 'COMMUNITY', 'CLASSNAME', 'HOSTNAME', 'SERIALNUMBER' ]
 
@@ -62,7 +62,7 @@ def remove_key(list_of_devices, key):
 def create_json_dict(list_of_devices):
     ''' Creates json file from a list of dictionaries. File name specified above.'''
     with open(file_name_json, 'w') as file_out:
-        json.dump(list_of_devices, file_out)
+        json.dump(list_of_devices, file_out, indent=4)
         return file_name_json
         
 

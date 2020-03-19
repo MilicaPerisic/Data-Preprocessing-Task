@@ -1,1 +1,110 @@
-[{"MODELNAME": "ME-3600X-24FS-M", "IP": "127.0.0.1", "SYSDESC": "Cisco IOS Software, ME360x Software (ME360x-UNIVERSALK9-M), Version 15.3(3)S3, RELEASE SOFTWARE (fc2)  Technical Support: http://www.cisco.com/techsupport  Copyright (c) 1986-2014 by Cisco Systems, Inc.  Compiled Sun 01-Jun-14 09:47 by prod_rel_team", "COMMUNITY": "test", "HOSTNAME": "AGGSW_BG_BLOK19A_1.ibis.rs", "SERIALNUMBER": "FOC1537V3Q8", "VENDOR": "Cisco"}, {"MODELNAME": "ME-3400G-12CS-A", "IP": "127.0.0.2", "SYSDESC": "Cisco IOS Software, ME340x Software (ME340x-METROIPACCESSK9-M), Version 12.2(58)SE2, RELEASE SOFTWARE (fc1)  Technical Support: http://www.cisco.com/techsupport  Copyright (c) 1986-2011 by Cisco Systems, Inc.  Compiled Thu 21-Jul-11 03:06 by prod_rel_team", "COMMUNITY": "test", "HOSTNAME": "BG_VIG-PLAZA_SA.ibis.rs", "SERIALNUMBER": "FOC1304U04G", "VENDOR": "Cisco"}, {"MODELNAME": "", "IP": "127.0.0.2", "SYSDESC": "TiMOS-C-14.0.R13 cpm/hops64 Nokia 7750 SR Copyright (c) 2000-2017 Nokia.  All rights reserved. All use subject to applicable license agreements.  Built on Wed Dec 20 16:33:36 PST 2017 by builder in /rel14.0/b1/R13/panos/main  ", "COMMUNITY": "test", "HOSTNAME": "BNG_BG_ibis", "SERIALNUMBER": "", "VENDOR": "Nokia"}, {"MODELNAME": "WS-C2960G-24TC-L", "IP": "127.0.0.3", "SYSDESC": "Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 12.2(44)SE6, RELEASE SOFTWARE (fc1)  Copyright (c) 1986-2009 by Cisco Systems, Inc.  Compiled Mon 09-Mar-09 18:10 by gereddy", "COMMUNITY": "test", "HOSTNAME": "Cisco_2960_ibis_Panon.ibis.rs", "SERIALNUMBER": "FOC1429V6BF", "VENDOR": "Cisco"}, {"MODELNAME": "", "IP": "127.0.0.4", "SYSDESC": "Cisco IOS Software, C2960 Software (C2960-LANLITEK9-M), Version 12.2(55)SE5, RELEASE SOFTWARE (fc1)  Technical Support: http://www.cisco.com/techsupport  Copyright (c) 1986-2012 by Cisco Systems, Inc.  Compiled Thu 09-Feb-12 19:11 by prod_rel_team", "COMMUNITY": "nIsl2nl00g1ng", "HOSTNAME": "DispecerskiCentar.ibis.rs", "SERIALNUMBER": "", "VENDOR": "Cisco"}, {"MODELNAME": "", "IP": "127.0.0.5", "SYSDESC": "S2326TP-EI   Huawei Versatile Routing Platform Software    VRP (R) software,Version 5.70 (S2300 V100R006C03)    Copyright (C) 2003-2011 Huawei Technologies Co., Ltd.", "COMMUNITY": "test", "HOSTNAME": "IN_TQ8_ibis", "SERIALNUMBER": "", "VENDOR": "Huawei"}, {"MODELNAME": "CISCO1841", "IP": "127.0.0.6", "SYSDESC": "Cisco IOS Software, 1841 Software (C1841-ADVENTERPRISEK9-M), Version 15.1(4)M6, RELEASE SOFTWARE (fc2)  Technical Support: http://www.cisco.com/techsupport  Copyright (c) 1986-2013 by Cisco Systems, Inc.  Compiled Thu 14-Feb-13 03:21 by prod_rel_team", "COMMUNITY": "NIS", "HOSTNAME": "NIS_BS2_SU_Puskinov_trg_ibis.rs", "SERIALNUMBER": "FCZ122691VH", "VENDOR": "Cisco"}, {"MODELNAME": "", "IP": "79.1.1.1", "SYSDESC": "MPBN NI_MX240_1", "COMMUNITY": "test", "HOSTNAME": "NI_MX240_ibis", "SERIALNUMBER": "", "VENDOR": "Juniper"}, {"MODELNAME": "", "IP": "122.0.0.1", "SYSDESC": "ite Route", "COMMUNITY": "test", "HOSTNAME": "NOV-MX5-SR1", "SERIALNUMBER": "", "VENDOR": "Juniper"}, {"MODELNAME": "", "IP": "123.0.0.1", "SYSDESC": "TiMOS-C-14.0.R13 cpm/hops64 Nokia 7750 SR Copyright (c) 2000-2017 Nokia.  All rights reserved. All use subject to applicable license agreements.  Built on Wed Dec 20 16:33:36 PST 2017 by builder in /rel14.0/b1/R13/panos/main  ", "COMMUNITY": "test", "HOSTNAME": "BNG_BG_ibis", "SERIALNUMBER": "", "VENDOR": "Nokia"}, {"MODELNAME": "", "IP": "132.0.0.9", "SYSDESC": "S3328TP-EI   Huawei Versatile Routing Platform Software    VRP (R) software,Version 5.70 (S3328 V100R005C01SPC100)    Copyright (C) 2000-2006 Huawei Technologies Co., Ltd.", "COMMUNITY": "test", "HOSTNAME": "BOKELJKA_SW1", "SERIALNUMBER": "", "VENDOR": "Huawei"}, {"MODELNAME": "WS-C2960-24PC-L", "IP": "122.0.0.1", "SYSDESC": "Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 12.2(44)SE6, RELEASE SOFTWARE (fc1)  Copyright (c) 1986-2009 by Cisco Systems, Inc.  Compiled Mon 09-Mar-09 18:10 by gereddy", "COMMUNITY": "test", "HOSTNAME": "BG_ZE1_TSZ1.ibis", "SERIALNUMBER": "FOC1346W420", "VENDOR": "Cisco"}]
+[
+    {
+        "MODELNAME": "ME-3600X-24FS-M",
+        "IP": "127.0.0.1",
+        "SYSDESC": "Cisco IOS Software, ME360x Software (ME360x-UNIVERSALK9-M), Version 15.3(3)S3, RELEASE SOFTWARE (fc2)  Technical Support: http://www.cisco.com/techsupport  Copyright (c) 1986-2014 by Cisco Systems, Inc.  Compiled Sun 01-Jun-14 09:47 by prod_rel_team",
+        "COMMUNITY": "test",
+        "HOSTNAME": "AGGSW_BG_BLOK19A_1.ibis.rs",
+        "SERIALNUMBER": "FOC1537V3Q8",
+        "VENDOR": "Cisco"
+    },
+    {
+        "MODELNAME": "ME-3400G-12CS-A",
+        "IP": "127.0.0.2",
+        "SYSDESC": "Cisco IOS Software, ME340x Software (ME340x-METROIPACCESSK9-M), Version 12.2(58)SE2, RELEASE SOFTWARE (fc1)  Technical Support: http://www.cisco.com/techsupport  Copyright (c) 1986-2011 by Cisco Systems, Inc.  Compiled Thu 21-Jul-11 03:06 by prod_rel_team",
+        "COMMUNITY": "test",
+        "HOSTNAME": "BG_VIG-PLAZA_SA.ibis.rs",
+        "SERIALNUMBER": "FOC1304U04G",
+        "VENDOR": "Cisco"
+    },
+    {
+        "MODELNAME": "",
+        "IP": "127.0.0.2",
+        "SYSDESC": "TiMOS-C-14.0.R13 cpm/hops64 Nokia 7750 SR Copyright (c) 2000-2017 Nokia.  All rights reserved. All use subject to applicable license agreements.  Built on Wed Dec 20 16:33:36 PST 2017 by builder in /rel14.0/b1/R13/panos/main  ",
+        "COMMUNITY": "test",
+        "HOSTNAME": "BNG_BG_ibis",
+        "SERIALNUMBER": "",
+        "VENDOR": "Nokia"
+    },
+    {
+        "MODELNAME": "WS-C2960G-24TC-L",
+        "IP": "127.0.0.3",
+        "SYSDESC": "Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 12.2(44)SE6, RELEASE SOFTWARE (fc1)  Copyright (c) 1986-2009 by Cisco Systems, Inc.  Compiled Mon 09-Mar-09 18:10 by gereddy",
+        "COMMUNITY": "test",
+        "HOSTNAME": "Cisco_2960_ibis_Panon.ibis.rs",
+        "SERIALNUMBER": "FOC1429V6BF",
+        "VENDOR": "Cisco"
+    },
+    {
+        "MODELNAME": "",
+        "IP": "127.0.0.4",
+        "SYSDESC": "Cisco IOS Software, C2960 Software (C2960-LANLITEK9-M), Version 12.2(55)SE5, RELEASE SOFTWARE (fc1)  Technical Support: http://www.cisco.com/techsupport  Copyright (c) 1986-2012 by Cisco Systems, Inc.  Compiled Thu 09-Feb-12 19:11 by prod_rel_team",
+        "COMMUNITY": "nIsl2nl00g1ng",
+        "HOSTNAME": "DispecerskiCentar.ibis.rs",
+        "SERIALNUMBER": "",
+        "VENDOR": "Cisco"
+    },
+    {
+        "MODELNAME": "",
+        "IP": "127.0.0.5",
+        "SYSDESC": "S2326TP-EI   Huawei Versatile Routing Platform Software    VRP (R) software,Version 5.70 (S2300 V100R006C03)    Copyright (C) 2003-2011 Huawei Technologies Co., Ltd.",
+        "COMMUNITY": "test",
+        "HOSTNAME": "IN_TQ8_ibis",
+        "SERIALNUMBER": "",
+        "VENDOR": "Huawei"
+    },
+    {
+        "MODELNAME": "CISCO1841",
+        "IP": "127.0.0.6",
+        "SYSDESC": "Cisco IOS Software, 1841 Software (C1841-ADVENTERPRISEK9-M), Version 15.1(4)M6, RELEASE SOFTWARE (fc2)  Technical Support: http://www.cisco.com/techsupport  Copyright (c) 1986-2013 by Cisco Systems, Inc.  Compiled Thu 14-Feb-13 03:21 by prod_rel_team",
+        "COMMUNITY": "NIS",
+        "HOSTNAME": "NIS_BS2_SU_Puskinov_trg_ibis.rs",
+        "SERIALNUMBER": "FCZ122691VH",
+        "VENDOR": "Cisco"
+    },
+    {
+        "MODELNAME": "",
+        "IP": "79.1.1.1",
+        "SYSDESC": "MPBN NI_MX240_1",
+        "COMMUNITY": "test",
+        "HOSTNAME": "NI_MX240_ibis",
+        "SERIALNUMBER": "",
+        "VENDOR": "Juniper"
+    },
+    {
+        "MODELNAME": "",
+        "IP": "122.0.0.1",
+        "SYSDESC": "ite Route",
+        "COMMUNITY": "test",
+        "HOSTNAME": "NOV-MX5-SR1",
+        "SERIALNUMBER": "",
+        "VENDOR": "Juniper"
+    },
+    {
+        "MODELNAME": "",
+        "IP": "123.0.0.1",
+        "SYSDESC": "TiMOS-C-14.0.R13 cpm/hops64 Nokia 7750 SR Copyright (c) 2000-2017 Nokia.  All rights reserved. All use subject to applicable license agreements.  Built on Wed Dec 20 16:33:36 PST 2017 by builder in /rel14.0/b1/R13/panos/main  ",
+        "COMMUNITY": "test",
+        "HOSTNAME": "BNG_BG_ibis",
+        "SERIALNUMBER": "",
+        "VENDOR": "Nokia"
+    },
+    {
+        "MODELNAME": "",
+        "IP": "132.0.0.9",
+        "SYSDESC": "S3328TP-EI   Huawei Versatile Routing Platform Software    VRP (R) software,Version 5.70 (S3328 V100R005C01SPC100)    Copyright (C) 2000-2006 Huawei Technologies Co., Ltd.",
+        "COMMUNITY": "test",
+        "HOSTNAME": "BOKELJKA_SW1",
+        "SERIALNUMBER": "",
+        "VENDOR": "Huawei"
+    },
+    {
+        "MODELNAME": "WS-C2960-24PC-L",
+        "IP": "122.0.0.1",
+        "SYSDESC": "Cisco IOS Software, C2960 Software (C2960-LANBASEK9-M), Version 12.2(44)SE6, RELEASE SOFTWARE (fc1)  Copyright (c) 1986-2009 by Cisco Systems, Inc.  Compiled Mon 09-Mar-09 18:10 by gereddy",
+        "COMMUNITY": "test",
+        "HOSTNAME": "BG_ZE1_TSZ1.ibis",
+        "SERIALNUMBER": "FOC1346W420",
+        "VENDOR": "Cisco"
+    }
+]
